@@ -24,10 +24,10 @@ apt-get upgrade -y && apt-get update -y && pkg install git -y && pkg install pyt
 2. Now the tool installation,
 ```python
 git clone https://github.com/spoiled-ops/RelativeSearcher
-	cd RelativeSearcher
-	ls
-	pip install google
-	python3 RelativeSearcher.py
+cd RelativeSearcher
+ls
+pip install google || pip install -r requirements.txt
+python3 RelativeSearcher.py
 ```
 ---
 ----
