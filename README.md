@@ -12,7 +12,7 @@ _A Tool inspired and based on the tool **Dorks-Eye.**_
 ## USAGE:
 **This Project helps the user to get relative search results i.e., URLs  from a search engine from the given keywords.**
 
-	*For pirooo's itzzz just a regular mini size dork searcher.
+	For pirooo's itzzz just a regular mini size dork searcher.
 ----
 ----
 
